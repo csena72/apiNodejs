@@ -1,0 +1,27 @@
+{
+  "name": "apinodejs",
+  "version": "1.0.0",
+  "description": "api Rest con nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csena72/apiNodejs.git"
+  },
+  "author": "Cristian Sena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csena72/apiNodejs/issues"
+  },
+  "homepage": "https://github.com/csena72/apiNodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
